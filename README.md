@@ -1,10 +1,14 @@
-Hello! I am Ellesia Truong. I am a junior at CSULB majoring in Computer Science with a minor in Cyber Security. 👾
+Hello! I am a senior at CSULB majoring in Computer Science with a minor in Cyber Security. 👾
 
 Coding Languages:
 - C++
 - Python
 - HTML/CSS
 - Java
+- SQL
+- PROC SQL
+- SAS SQL
+- DAX
 
 Clubs/ Leadership: 
 - Avionics subsystem for CSULB's Beach Launch Team! 🚀
@@ -16,4 +20,3 @@ Free Time/ Hobbies:
 
 Current projects:
 - Discord bot!
-- Learning SQL
